@@ -1,0 +1,101 @@
+[
+{
+    "id": 2643736,
+    "name": "Derry",
+    "state": "",
+    "country": "GB",
+    "coord": {
+        "lon": -7.30934,
+        "lat": 54.9981
+    }
+},
+{
+    "id": 2643737,
+    "name": "City of Derry",
+    "state": "",
+    "country": "GB",
+    "coord": {
+        "lon": -7.25,
+        "lat": 55.0
+    }
+},
+{
+    "id": 2643741,
+    "name": "City of London",
+    "state": "",
+    "country": "GB",
+    "coord": {
+        "lon": -0.09184,
+        "lat": 51.512791
+    }
+},
+{
+    "id": 2643743,
+    "name": "London",
+    "state": "",
+    "country": "GB",
+    "coord": {
+        "lon": -0.12574,
+        "lat": 51.50853
+    }
+},
+{
+    "id": 2643745,
+    "name": "Londesborough",
+    "state": "",
+    "country": "GB",
+    "coord": {
+        "lon": -0.68333,
+        "lat": 53.883331
+    }
+},
+{
+    "id": 2643776,
+    "name": "Lofthouse",
+    "state": "",
+    "country": "GB",
+    "coord": {
+        "lon": -1.49697,
+        "lat": 53.729469
+    }
+},
+{
+    "id": 2643783,
+    "name": "Loddon",
+    "state": "",
+    "country": "GB",
+    "coord": {
+        "lon": 1.48183,
+        "lat": 52.5327
+    }
+},
+{
+    "id": 2643788,
+    "name": "Lockington",
+    "state": "",
+    "country": "GB",
+    "coord": {
+        "lon": -0.48572,
+        "lat": 53.91415
+    }
+},
+{
+    "id": 2643791,
+    "name": "Lockerbie",
+    "state": "",
+    "country": "GB",
+    "coord": {
+        "lon": -3.35635,
+        "lat": 55.12302
+    }
+},
+{
+    "id": 2643797,
+    "name": "Lochwinnoch",
+    "state": "",
+    "country": "GB",
+    "coord": {
+        "lon": -4.63034,
+        "lat": 55.795212
+    }
+}]
